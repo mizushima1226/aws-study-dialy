@@ -1,12 +1,9 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  github: 'https://github.com/mizushima1226/aws-study-dialy',
+  titleSuffix: ' – AWSお勉強計画',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
-        The Next Site Builder
-      </span>
+      <span className="mr-2 font-extrabold hidden md:inline">AWSお勉強日記</span>
     </>
   ),
   head: (
@@ -14,7 +11,7 @@ export default {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta httpEquiv="Content-Language" content="en" />
+      <meta httpEquiv="Content-Language" content="ja" />
       <meta name="description" content="Nextra: the next site builder" />
       <meta name="og:description" content="Nextra: the next site builder" />
       <meta name="twitter:card" content="summary_large_image" />
