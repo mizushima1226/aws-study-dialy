@@ -3,5 +3,6 @@
   "Section2": "2章 クラウドとネットワークのしくみ",
   "Section3": "3章 AWSを使うためのツール",
   "Section4": "4章 Amazon EC2",
-  "Section5": "5章 Amazon S3"
+  "Section5": "5章 Amazon S3",
+  "Section6": "6章 Amazon VPC"
 }
